@@ -88,8 +88,7 @@ The project follows modern enterprise application architecture with frontend-bac
 
 * Place Orders
 * Generate Order Bills
-* View Order History
-* Payment Method Support
+
 
 ### Favorite Products
 
