@@ -4,14 +4,44 @@
 
 BuyFour is a full-stack Coffee Shop Management System developed using React JS, Spring Boot, Spring Security, JPA, Hibernate, MySQL, and REST APIs.
 
-The application provides a complete coffee shop management solution where users can browse products, manage carts, place orders, maintain favorite products, manage categories, upload profile images, and securely authenticate using Spring Security.  
+The application provides a complete coffee shop management solution where users can browse products, manage carts, place orders, maintain favorite products, manage categories, upload profile images, and securely authenticate using Spring Security.
 
-https://github.com/LaxmikantKshemaling/buyfour/blob/e97cc73b199762170e1759476cd82c3d6a64ab9d/Screenshot%202026-06-04%20162412.png https://github.com/LaxmikantKshemaling/buyfour/blob/c953e4434f7bd574da8340f1eb1afe60d9f4c2f8/Screenshot%202026-06-04%20162427.png
-https://github.com/LaxmikantKshemaling/buyfour/blob/d602954e8cfe09c7b0ed6b7d9fef8972c4eb35a9/Screenshot%202026-06-04%20165231.png
 The project follows modern enterprise application architecture with frontend-backend integration through REST APIs.
-  https://github.com/LaxmikantKshemaling/buyfour/blob/4a1b96bb038d470e45781e7c651d5617a3b344b0/Screenshot%202026-06-04%20165312.png
----   https://github.com/LaxmikantKshemaling/buyfour/blob/aa0a17021c0f25d1a1701949ec19ef262150f6e0/coffeeshaplogin.png
-  https://github.com/LaxmikantKshemaling/buyfour/blob/cf8fe81cd62424842358eb78f9263aad85054fac/Screenshot%202026-06-04%20165231.png
+
+---
+
+## 🖼️ Application Screenshots
+
+### Login Page
+
+![Login Page](coffeeshaplogin.png)
+
+### Customer Dashboard
+
+![Customer Dashboard](Screenshot%202026-06-04%20162412.png)
+
+### Product Details
+
+![Product Details](Screenshot%202026-06-04%20162427.png)
+
+### Shopping Cart
+
+![Shopping Cart](Screenshot%202026-06-04%20165231.png)
+
+### Category Management
+
+![Category Management](Screenshot%202026-06-04%20165312.png)
+
+### Coffee Product Management
+
+![Coffee Products](Screenshot%202026-06-04%20165231.png)
+
+### Dessert Product Management
+
+![Dessert Products](Screenshot%202026-06-04%20165312.png)
+
+---
+
 ## Features
 
 ### Authentication & User Management
@@ -45,7 +75,6 @@ The project follows modern enterprise application architecture with frontend-bac
 * Update Categories
 * Delete Categories
 * View Categories
-* Category Management
 
 ### Shopping Cart Management
 
@@ -104,27 +133,19 @@ The project follows modern enterprise application architecture with frontend-bac
 
 ## Project Architecture
 
+```text
 React JS Frontend
-
-↓
-
+        ↓
 REST APIs
-
-↓
-
+        ↓
 Spring Boot Controllers
-
-↓
-
+        ↓
 Service Layer
-
-↓
-
+        ↓
 Repository Layer
-
-↓
-
+        ↓
 MySQL Database
+```
 
 ---
 
@@ -141,78 +162,6 @@ MySQL Database
 
 ---
 
-## REST API Modules
-
-### Authentication APIs
-
-* Signup
-* Login
-* Logout
-* Forgot Password
-* Verify OTP
-* Reset Password
-
-### Product APIs
-
-* Add Product
-* Update Product
-* Delete Product
-* Filter Products
-* Product Image Upload
-
-### Cart APIs
-
-* Add To Cart
-* Update Cart
-* Remove Cart Item
-* Clear Cart
-
-### Order APIs
-
-* Place Order
-* Order History
-* Generate Bill
-
-### Favorite APIs
-
-* Add Favorite
-* Get Favorites
-* Remove Favorite
-
----
-
-## Key Functionalities
-
-* Secure Authentication using Spring Security
-* OTP Based Password Recovery
-* Product Management
-* Cart Management
-* Order Processing
-* Favorite Product Management
-* Category Management
-* File Upload Management
-* REST API Integration
-* Database Management
-
----
-
-## Project Structure
-
-```text
-src
-├── controller
-├── service
-├── repository
-├── entity
-├── dto
-├── security
-├── config
-├── exception
-└── BuyfourApplication.java
-```
-
----
-
 ## Learning Outcomes
 
 * Spring Boot Application Development
@@ -224,21 +173,6 @@ src
 * Authentication & Authorization
 * File Upload Handling
 * Full Stack Application Development
-
----
-
-## Technologies Used
-
-* React JS
-* Axios
-* Java
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* REST APIs
-* MySQL
-* HTML
-* CSS
 
 ---
 
@@ -263,6 +197,6 @@ Email:
 
 ## Project Status
 
-Version: 1.0
+**Version:** 1.0
 
-Status: Completed
+**Status:** Completed ✅
