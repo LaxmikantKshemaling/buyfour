@@ -4,7 +4,9 @@
 
 BuyFour is a full-stack Coffee Shop Management System developed using React JS, Spring Boot, Spring Security, JPA, Hibernate, MySQL, and REST APIs.
 
-The application provides a complete coffee shop management solution where users can browse products, manage carts, place orders, maintain favorite products, manage categories, upload profile images, and securely authenticate using Spring Security.    https://github.com/LaxmikantKshemaling/buyfour/blob/c953e4434f7bd574da8340f1eb1afe60d9f4c2f8/Screenshot%202026-06-04%20162427.png
+The application provides a complete coffee shop management solution where users can browse products, manage carts, place orders, maintain favorite products, manage categories, upload profile images, and securely authenticate using Spring Security.  
+
+https://github.com/LaxmikantKshemaling/buyfour/blob/e97cc73b199762170e1759476cd82c3d6a64ab9d/Screenshot%202026-06-04%20162412.png https://github.com/LaxmikantKshemaling/buyfour/blob/c953e4434f7bd574da8340f1eb1afe60d9f4c2f8/Screenshot%202026-06-04%20162427.png
 https://github.com/LaxmikantKshemaling/buyfour/blob/d602954e8cfe09c7b0ed6b7d9fef8972c4eb35a9/Screenshot%202026-06-04%20165231.png
 The project follows modern enterprise application architecture with frontend-backend integration through REST APIs.
   https://github.com/LaxmikantKshemaling/buyfour/blob/4a1b96bb038d470e45781e7c651d5617a3b344b0/Screenshot%202026-06-04%20165312.png
