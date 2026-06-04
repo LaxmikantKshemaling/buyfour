@@ -16,29 +16,50 @@ The project follows modern enterprise application architecture with frontend-bac
 
 ![Login Page](coffeeshaplogin.png)
 
+---
+
 ### Customer Dashboard
 
 ![Customer Dashboard](Screenshot%202026-06-04%20162412.png)
+
+---
 
 ### Product Details
 
 ![Product Details](Screenshot%202026-06-04%20162427.png)
 
+---
+
 ### Shopping Cart
 
 ![Shopping Cart](Screenshot%202026-06-04%20165231.png)
+
+---
 
 ### Category Management
 
 ![Category Management](Screenshot%202026-06-04%20165312.png)
 
+---
+
 ### Coffee Product Management
 
 ![Coffee Products](Screenshot%202026-06-04%20165231.png)
 
+---
+
 ### Dessert Product Management
 
 ![Dessert Products](Screenshot%202026-06-04%20165312.png)
+
+---
+
+### Order Bill / Invoice
+
+![Order Bill](Screenshot%202026-06-04%20171832.png)
+
+---
+
 
 ---
 
