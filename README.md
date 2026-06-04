@@ -9,7 +9,7 @@ The application provides a complete coffee shop management solution where users 
 The project follows modern enterprise application architecture with frontend-backend integration through REST APIs.
 
 ---
-
+  https://github.com/LaxmikantKshemaling/buyfour/blob/cf8fe81cd62424842358eb78f9263aad85054fac/Screenshot%202026-06-04%20165231.png
 ## Features
 
 ### Authentication & User Management
